@@ -68,6 +68,7 @@ Tareas Secundarias
 
 ## Marcas y Canales – How
 En el proceso de definición de la visualización, teniendo en cuenta las tareas seleccionadas y los datos, se realizó la propuesta del HOW la cual consta de los modismos descritos a continuación:
+
 Modismo para la TP1, compuesto por 2 gráficos (un bar chart a la izquierda y un multi series line chart) yuxtapuestos:
 - Marcas: para el bar chart, líneas verticales y para el ms line chart, puntos unidos por líneas.
 - Canales: longitud en el eje Y para expresar cantidad (de estudiantes en el bar chart y de expectativa para el ms line chart) y color hue para diferenciar las categorías de las variables (curvas).
@@ -138,13 +139,28 @@ Para el desarrollo del proyecto se usaron las siguientes tecnologías:
 El proyecto sólo depende del acceso a los datos almacenados en el repositorio https://github.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/ y a la disponibilidad del servicio de GitHub Pages, que permite el acceso por medio de un Navegador a la página principal proyecto.
 
 ## Autores
-El autor de los datos es...
-Los datos están actualizados hasta mediados del 2018.
+El autor de los datos es COURSERA y los estudiantes que diligenciaron sus encuestas, los datos están actualizados hasta octubre del 2018.
 
 Los autores de la visualización son Vladimir E. Cuevas, Juan Carlos Oyuela y Andres Segura Tinoco.
 
 ## Screenshot
 A continuación, se presentan unos pantallazo del proyecto:
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura1.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura2.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura3.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura4.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura5.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura6.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura7.PNG)
+
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura8.PNG)
 
 ## Licencia
 Este proyecto está bajo la licencia MIT.
