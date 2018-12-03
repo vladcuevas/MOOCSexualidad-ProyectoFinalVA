@@ -113,7 +113,7 @@ Con respecto a los modismos para las tareas secundarias:
 ## Insights
 A continuación, se listan los insights más importantes de la tarea principal 1 y sus tareas secundarias:
 - I1: A partir de las encuestas realizadas, se observa la efectividad del MOOC en los estudiantes, ya que antes de cursarlo tienen un conocimiento y expectativas sobre el tema entre regular y bueno (2.5/5.0 en promedio), pero luego de cursarlo, mejora su conocimiento entre muy bueno o excelente (4.5/5.0 en promedio).
-- I2: Los estudiantes que dedicaron más horas de estudio al MOOC (5 o más) manifestaron que su conocimiento sobre la sexualidad mejoró en mayor porcentaje, que los que dedicaron pocas horas al curso (4 o menos), especificamente, casi un 10% de mayor conocimiento sobre el tema.
+- I2: Los estudiantes que dedicaron más horas de estudio al MOOC (5 o más) manifestaron que su conocimiento sobre la sexualidad mejoró en mayor porcentaje, que los que dedicaron pocas horas al curso (4 o menos), específicamente, casi un 10% de mayor conocimiento sobre el tema.
 - I3: La tendencia histórica de las inscripciones es muy positiva, ya que hasta el año 2016, para ningún día se había pasado de 50 inscripciones, sin embargo, a partir del 2016, a mediados de febrero y de julio hay picos con más de 100 inscripciones. Sin embargo, lo único preocupante es que para el 2018 la cantidad de inscripciones diarias ha bajado con respecto al 2016 y el 2017.
 
 A continuación, se listan los insights más importantes de la tarea principal 2 y sus tareas secundarias:
@@ -142,6 +142,9 @@ El proyecto sólo depende del acceso a los datos almacenados en el repositorio y
 El autor de los datos es COURSERA y los estudiantes que diligenciaron sus encuestas, los datos están actualizados hasta octubre del 2018.
 
 Los autores de la visualización son Vladimir E. Cuevas, Juan Carlos Oyuela y Andres Segura Tinoco.
+
+## Links de interés
+- Presentación: https://docs.google.com/presentation/d/1RNJCR9KBawwebVmRBvZRcYJvi-myQnZqiWp_mZo2Mbw/edit?usp=sharing
 
 ## Screenshots
 A continuación, se presentan unos pantallazo del proyecto:
