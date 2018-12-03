@@ -145,6 +145,7 @@ Los autores de la visualización son Vladimir E. Cuevas, Juan Carlos Oyuela y An
 
 ## Links de interés
 - Presentación: https://docs.google.com/presentation/d/1RNJCR9KBawwebVmRBvZRcYJvi-myQnZqiWp_mZo2Mbw/edit?usp=sharing
+- Youtube: https://youtu.be/916khzlJZpw
 
 ## Screenshots
 A continuación, se presentan unos pantallazo del proyecto:
