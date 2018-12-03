@@ -124,8 +124,8 @@ ast.createSecondaryCharts = () => {
 	let xVar = "Date"
 	let varList = ["Count", "HiLimit", "LoLimit"];
 	let colList = ["#1f77b4", "#ff7f0e", "#d62728"];
-	let xTitle = "Date";
-	let yTitle = "Registration";
+	let xTitle = "Fecha";
+	let yTitle = "Cantidad de Registros";
 	let cTitle = "";
 	ast.doMSLineChart(filterData, svgLineChart2, 3000, xVar, varList, xTitle, yTitle, cTitle)
 }
@@ -160,15 +160,15 @@ ast.changeFilter = () => {
 	// Chart 1 - Stacked bar chart
 	let svgStackedBarChart1 = d3.select("#svgPt1Bars");
 	xVar = "Answer";
-	xTitle = "Answer Type";
-	yTitle = "Students Count";
+	xTitle = "Nivel de Conocimiento";
+	yTitle = "Cantidad de Estudiantes";
 	ast.doStackedBarChart(stackedData, svgStackedBarChart1, varList, xVar, xTitle, yTitle, cTitle, false);
 
 	// Chart 2 - Line chart
 	let svgLineChart1 = d3.select("#svgPt1Lines");
 	xVar = "StudentIx"
-	xTitle = "Student Index";
-	yTitle = "Expectative";
+	xTitle = "Estudiantes";
+	yTitle = "Nivel de Conocimiento";
 	if (msCurves == "All") {
 		varList = ["InitialExpectID", "InitialExpectAvg", "EndExpectID", "EndExpectAvg"];
 		colList = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"];
