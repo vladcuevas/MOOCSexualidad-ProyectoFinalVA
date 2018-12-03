@@ -56,15 +56,16 @@ El resultado de las encuestas es la data que apoya la tarea principal.
 Tareas Principales
 - TP1: Identificar las características que indican que el MOOC es efectivo y que realmente mejora las competencias y capacidades para hablar de “Sexualidad” en los participantes, aunque no cuente con un profesor de forma presencial (Identify – Features).
 - TP2: Descubrir la distribución de las variables demográficas de los estudiantes que completan el curso, para identificar cuales comunidades demuestran mayor interés en realizar y terminar del curso (Discover - Distributions).
-- TP3: Identificar las actividades más populares y las menos populares de las disponibles en el curso, contrastando la cantidad de veces que una actividad fue completada contra la cantidad de veces que una actividad no fue completada (Find - Trends) y (Lookup - Values).
+- TP3: Identificar las actividades más populares y las menos populares de las disponibles en el curso, contrastando la cantidad de veces que una actividad fue completada contra la cantidad de veces que una actividad no fue completada (Part-to-whole relationship) (Find/search - Trends) y (Lookup - Values).
 
 Tareas Secundarias
 1. Determinar si existe alguna actividad o ítem en la cual los estudiantes se retiran del curso de manera frecuente, de tal manera que se logre identificar un momento clave de deserción (Locate - Outliers).
 2. Explorar la distribución y el conteo de los estudiantes a nivel global, teniendo en cuenta que el curso se dicta en línea (Explore - Distribution).
 3. Perfilar los usuarios del curso, y lograr identificar las poblaciones más activas (Compare-Features).
 4. Encontrar las épocas o rangos de fechas de mayor inscripción de estudiantes, con el fin de fortalecer y enfocar hacia determinadas poblaciones las campañas de marketing del curso, de tal manera que se logre aumentar el índice de participación anual (Locate - Outliers).
-5. Identificar las actividades (ítems) más populares y las menos populares de las disponibles en el curso, a través de su calificación de tipo Like/Dislike (Identify- Extremes).
-6. Identificar las actividades más populares y las menos populares de las disponibles en el curso, a través de la cantidad de interacciones que tiene cada ítem, donde cada actividad que es iniciada tiene un estado de “iniciada” y cada actividad iniciada que es completada por el usuario de cambia de estado a “completada”. La actividad puede ser iniciada y completada muchas veces por un mismo usuario. (Identify- Extremes)
+5. Identificar las actividades (ítems) más populares y las menos populares de las disponibles en el curso, a través de su calificación de tipo Like/Dislike (Find/search - Trends) (Lookup - Values).
+6. Identificar las actividades más populares y las menos populares de las disponibles en el curso, a través de la cantidad de interacciones que tiene cada ítem, donde cada actividad que es iniciada tiene un estado de “iniciada” y cada actividad iniciada que es completada por el usuario de cambia de estado a “completada”. La actividad puede ser iniciada y completada muchas veces por un mismo usuario. (Find/search - Trends) (Lookup - Values).
+7. Identificar las actividades (ítems) más populares y las menos populares de las disponibles en el curso, contrastandolo contra el genero o sexo (Find/search - Trends) (Lookup - Values).
 
 ## Marcas y Canales – How
 En el proceso de definición de la visualización, teniendo en cuenta las tareas seleccionadas y los datos, se realizó la propuesta del HOW la cual consta de los modismos descritos a continuación:
