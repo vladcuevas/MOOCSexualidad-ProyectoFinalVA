@@ -136,14 +136,14 @@ Para el desarrollo del proyecto se usaron las siguientes tecnologías:
 - GitHub para almacenar el código de la Viz y de los datos usados.
 
 ## Prerrequisitos y Uso
-El proyecto sólo depende del acceso a los datos almacenados en el repositorio https://github.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/ y a la disponibilidad del servicio de GitHub Pages, que permite el acceso por medio de un Navegador a la página principal proyecto.
+El proyecto sólo depende del acceso a los datos almacenados en el repositorio y a la disponibilidad del servicio de GitHub Pages, que permite el acceso por medio de un Navegador a la página principal proyecto: https://vladcuevas.github.io/MOOCSexualidad-ProyectoFinalVA/
 
 ## Autores
 El autor de los datos es COURSERA y los estudiantes que diligenciaron sus encuestas, los datos están actualizados hasta octubre del 2018.
 
 Los autores de la visualización son Vladimir E. Cuevas, Juan Carlos Oyuela y Andres Segura Tinoco.
 
-## Screenshot
+## Screenshots
 A continuación, se presentan unos pantallazo del proyecto:
 
 ![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/screenshots/Figura1.PNG)
