@@ -1,4 +1,4 @@
-# ProyectoFinalVA
+# ¡Realmente puedes aprender sobre sexualidad a través de un MOOC!
 
 ![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/img/main-banner.jpg)
 
