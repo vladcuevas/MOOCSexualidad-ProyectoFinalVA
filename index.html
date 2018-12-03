@@ -30,7 +30,7 @@
 			<div id="divMain" align="center" >
 
 				<div class="divText">
-					<!--img src="img/main-banner.jpg" /-->
+					<img src="img/main-banner.jpg" />
 				</div>
 
 				<!-- Chart 1: Ingresos de extranjeros a Colombia por genero -->
@@ -40,9 +40,6 @@
 				<div class="divText" align="left">
 					<label for="cmbGender">Sexo:</label>
 					<select id="cmbGender" class="cmbFilter" onchange="ast.changeFilter()">
-						<option id="female">Femenino</option>
-						<option id="male">Masculino</option>
-						<option id="no_answer">N/C</option>
 					</select>
 
 					<label for="cmbHours">Horas Dedicadas:</label>
@@ -57,11 +54,31 @@
 					<select id="cmbEduLevel" class="cmbFilter" style="margin:0px" onchange="ast.changeFilter()">
 					</select>
 				</div>
-				<div class="divChartTitle">Expectativas de los Estudiantes Antes vs Después del MOOC</div>
-				<div id="divPt1Content" style="position: relative;">
-					<svg id="svgPt1Bars"  class="svgChart" style="float:left"></svg>
-					<svg id="svgPt1Lines" class="svgChart" style="float:right"></svg>
-					<div style="clear:both;"></div>
+				<div style="position: relative;" >
+					<div class="divChartTitle" >Expectativas de los Estudiantes Antes vs Después del MOOC</div>
+					<select id="cmbMSCurves" class="cmbFilter" style="margin:0px; position: absolute; top:7px; right:0px;" onchange="ast.changeFilter()">
+						<option id="0">All</option>
+						<option id="1">Average</option>
+						<option id="2">Real</option>
+					</select>
+					<div id="divPt1Content" style="position: relative;">
+						<svg id="svgPt1Bars"  class="svgChart" style="float:left"></svg>
+						<svg id="svgPt1Lines" class="svgChart" style="float:right"></svg>
+						<div style="clear:both;"></div>
+					</div>
+				</div>
+
+				<!-- Chart 1: Ingresos de extranjeros a Colombia por genero -->
+				<div class="divText" >
+					<p><b>Tarea Secundaria 4</b>: Encontrar las épocas o rangos de fechas de mayor inscripción de estudiantes, con el fin de fortalecer y enfocar hacia determinadas poblaciones las campañas de marketing del curso, de tal manera que se logre aumentar el índice de participación anual (Locate - Outliers).</p>
+				</div>
+				<div style="position: relative;" >
+					<div class="divChartTitle" >Rango de Fechas Inscripciones</div>
+					<select id="cmbMSYear" class="cmbFilter" style="margin:0px; position: absolute; top:7px; right:0px;" onchange="ast.createSecondaryCharts()">
+					</select>
+					<div id="divSt4Content" style="position: relative; width:1000px;">
+						<svg id="svgSt4Lines" class="svgChart" style="width:1000px;"></svg>
+					</div>
 				</div>
 			</div>
 
@@ -96,83 +113,7 @@
 			    <br>
 			    <script src="js/stackedBarChartNormalizedHorizontalCustom.js" type="module"></script>
 			</div>
-
-			<div id="divReadme" align="center">
-				
-				<div class="divText" align="left" >
-					<h1>Readme</h1>
-
-					<h3>Datos del Proyecto – What</h3>
-					<p><b>Descripción</b>: El dataset muestra el consolidado del registro de obras protegidas por el Derecho de Autor realizado por solicitantes colombianos en el Exterior, en el 2 trimestre del 2018. Los datos están actualizados hasta el 10 Julio del 2018.</p>
-					<p>Los datos provienen de los Datos Abiertos de Colombia <a target="_blank" href="https://www.datos.gov.co/Cultura/Registro-de-obras-por-Colombianos-en-el-Exterior-2/ags6-6cmc/data">www.datos.gov.co</a> y son del tipo Table, sin embargo, en la  presente visualización se procesan los datos en memoria, para convertirlos en un dataset del tipo <b>Network</b>, que contiene las siguientes variables (attributes):</p>
-					<ul>
-						<li>Items (Nodes): categorical, para los nodos Persona, Ciudad y País.</li>
-						<li>Enlaces (Links): categorical, para las relaciones Persona-Ciudad y Ciudad-País.</li>
-						<li>Cantidad (Attribute): ordered, quantitative, sequencial para el peso de los nodos y de los enlaces.</li>
-						<li>Tipo (Attribute): categorical, y puede ser Persona, Ciudad o País.</li>
-					</ul>
-
-					<h3>Objetivos del Proyecto - Why</h3>
-					<p><b>Tarea Principal</b></p>
-					<p>TP1: Crear una visualización web que permita localizar (<b>locate</b>) los caminos o las rutas (<b>paths</b>) entre los distintos autores que registran obras en un mismo país (pero en distintas ciudades).</p>
-					<p><b>Tareas Secundarias</b></p>
-					<p>TS1: Explorar (<b>explore</b>) la topología (<b>topology</b>) de las ciudades o países, con respecto a la cantidad de autores que registran obras en el extranjero.</p>
-					<p>TS2: Generar (<b>derive</b>) y contabilizar (<b>summarize</b>) la cantidad de registros de obras (copyrights) que hace un autor en una ciudad en el extranjero (<b>feature</b>).</p>
-
-					<h3>Marcas y Canales – How</h3>
-					<ul>
-						<li>Marcas: puntos para los nodos (Persona, Ciudad y País), líneas para los enlaces.</li>
-						<li>Canal - Color Hue: cada nodo tendrá un color que permitirá identificar el tipo de nodo: si es una persona, una ciudad o un país.</li>
-						<li>Canal - Posición: los nodos tienen una posición espacial en X, determinada por el peso de sus enlaces, la cual también está influenciada por una simulación de fuerzas.</li>
-						<li>Reduce: Aggregate.</li>
-						<li>Manipulate: Select. Se puede seleccionar un nodo, y se resaltarán los nodos vecinos con sus respectivos enlaces.</li>
-					</ul>
-					
-					<h3>Insights</h3>
-					<ul>
-						<li>Los autores Luis German Perdomo y Monica Maria Palacio, están relacionados (tienen un camino en común), ya que ambos registraron obras en USA, respectivamente en las ciudades Orlando y Miami.</li>
-						<li>Jaime Enrique Gutiérrez es el autor colombiano, que más obras registró en el extranjero (Melbourne, Australia) en el segundo trimestre del 2018 (aproximadamente 200).</li>
-						<li>La ciudad donde más distintos autores (20) colombianos registraron obras es Caracas.</li>
-						<li>Estados Unidos es el país con más distintas ciudades (5), en donde autores colombianos registraron obras.</li>
-					</ul>
-
-					<h3>Tecnologías Usadas</h3>
-					<p>Para el desarrollo del proyecto se usaron las siguientes tecnologías:</p>
-					<ul>
-						<li>Se usó Sublime Text 3 y Notepad++ como IDEs de desarrollo.</li>
-						<li>HTML y CSS para maquetar el sitio web.</li>
-						<li>Javascript y el framework D3.js v5, para crear el gráfico de Red con sus respectivas interacciones.</li>
-						<li>GitHub para almacenar el código de la Viz, y de los datos usados. A continuación, el enlace a dicho repositorio principal del proyecto: <a target="_blank" href="https://github.com/ansegura7/VA-Proyecto-Final-MOOC">https://github.com/ansegura7</a></li>
-					</ul>
-
-					<h3>Prerrequisitos</h3>
-					<p>El proyecto depende del acceso a los datos almacenados en el repositorio previamente mencionado y a la disponibilidad del servicio de GitHub Pages, que permite el acceso por medio de un Navegador a la página principal proyecto.</p>
-					<p>Además, al usar los frameworks D3.js v5, depende de que dicha librería esté disponible para ser usada on-line.</p>
-					
-					<h3>Uso</h3>
-					<ul>
-						<li>La visualización se cargará completa al ingresar su URL en un navegador web.</li>
-						<li>Se puede seleccionar el tipo de alineación de los datos, en el combo-box <b>Alineación</b>. Esta interacción, afectará al orden de los nodos en el gráfico de redes.</li>
-						<li>Se pueden mover (arrastrar y soltar) los nodos, para localizar y explorar los caminos y las topologías de la red.</li>
-						<li>Se puede hacer click sobre los nodos, y se resaltarán los nodos vecinos de dicho nodo.</li>
-					</ul>
-					
-					<h3>Autores</h3>
-					<p>El autor de los datos es el Gobierno Nacional y el sitio web Datos Abiertos de Colombia. Los datos están actualizados hasta el 10 de Julio de 2018.</p>
-					<p>El autor de la visualización es Andrés Segura Tinoco, CE 201711582.</p>
-
-					<h3>Screenshot</h3>
-					<p>En el siguiente repositorio, se encuentran algunos screenshots del proyecto:</p>
-					<a target="_blank" href="https://github.com/ansegura7/VA-Proyecto-Final-MOOC/tree/master/screenshots">GitHub Screenshots</a>
-
-					<h3>Links de Interés</h3>
-					<p>Video: <a target="_blank" href="https://youtu.be/eyuMdS1vsHs">Youtube</a>.</p>
-					<p>Presentación: <a target="_blank" href="https://docs.google.com/presentation/d/1x1_JTG_tSodmnutDEWoK45hb_9SEWEkujc5xJK9GxjU/edit?usp=sharing">Google Slides</a>.</p>
-					<p>Tweet: <a target="_blank" href="https://twitter.com/SeguraAndres7/status/1057263951753461761">https://twitter.com/SeguraAndres7</a>.</p>
-				</div>
-
-			</div>
-
+			
 			<script type="text/javascript">
 		        // Run Page Script
 				$(document).ready(function() {

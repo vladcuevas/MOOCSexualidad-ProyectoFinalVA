@@ -1,0 +1,310 @@
+StudentID,SpendHours,CountryLive,Gender,AgeRange,EducationLevel,InitialExpectID,InitialExpectValue,EndExpectID,EndExpectValue
+389ee6f5f3c9e90aa2f53423548e1a4e9f124d72,9 horas o mas,es - Espana,Femenino,25-34,Educacion secundaria,3,Buena,5,Excelente
+3f4d3790df75ba03bc02b12ef22600f9b4739a6b,1 a 2 horas,co - Colombia,Femenino,55-64,Posgrado,2,Regular,4,Muy buena
+f5ae302780b675a8b01aa4afdf7b779076465c27,5 a 6 horas,co - Colombia,Femenino,25-34,Carrera profesional,3,Buena,5,Excelente
+63cea99190efdabb562987e75ef86c49a30f46ea,7 a 8 horas,co - Colombia,Femenino,25-34,Posgrado,3,Buena,5,Excelente
+59bada53ceea5fd30cc6b165ff3067cc6fee2131,3 a 4 horass,mx - Mexico,Femenino,25-34,Carrera profesional,1,Poca,2,Regular
+a1212044e1eb44ea8a723fb118dfc195351e6605,5 a 6 horas,ec - Ecuador,Masculino,25-34,Carrera tecnica,3,Buena,5,Excelente
+a1212044e1eb44ea8a723fb118dfc195351e6605,5 a 6 horas,ec - Ecuador,Masculino,25-34,Carrera tecnica,3,Buena,5,Excelente
+5f1443204dae553bb36cc5027bf4d472fb48cbeb,1 a 2 horas,pt - Portugal,Femenino,25-34,Maestria,3,Buena,5,Excelente
+71c5f78fd677ec58d906266bddaea5e4eb2714af,1 a 2 horas,co - Colombia,Femenino,35-44,Carrera profesional,2,Regular,5,Excelente
+9b9d8e3169693a447f97b2061ca3023a49ac7a2d,3 a 4 horass,mx - Mexico,Femenino,25-34,Carrera profesional,3,Buena,5,Excelente
+407dffb1d9fbf7c1b8d84ae62efde8f608041618,1 a 2 horas,co - Colombia,Femenino,25-34,Carrera profesional,4,Muy buena,4,Muy buena
+fd70e5b5eb738e58a0b9c34ec66fb9154265c793,3 a 4 horass,co - Colombia,Femenino,25-34,Carrera tecnica,3,Buena,5,Excelente
+dcdf1d95075891d79c041617fdbae7956c672f9c,3 a 4 horass,mx - Mexico,Masculino,25-34,Carrera profesional,3,Buena,5,Excelente
+20a58ff88e54b7614c2d95fb165ed69c3c36056d,5 a 6 horas,mx - Mexico,Femenino,35-44,Carrera profesional,2,Regular,4,Muy buena
+3cc3394989a2e164c9b2fc43813d07b834dcd995,1 a 2 horas,co - Colombia,Femenino,25-34,Carrera profesional,3,Buena,5,Excelente
+a8156cfafdf6b27a8064fc537b2d9326895ce6fd,3 a 4 horass,co - Colombia,Femenino,18-24,Carrera profesional,4,Muy buena,5,Excelente
+23835dafb3655bd709c103f17decd394b228480f,5 a 6 horas,gt - Guatemala,Femenino,45-54,Maestria,2,Regular,5,Excelente
+457429d9be087eb8bb0ee0aa765d7ec397d7c373,1 a 2 horas,ve - Venezuela,Femenino,45-54,Carrera profesional,1,Poca,4,Muy buena
+243793fd61a04e033a721a7392a521768bb10597,1 a 2 horas,co - Colombia,Femenino,18-24,Carrera profesional,4,Muy buena,5,Excelente
+86e1a6095f8e1d74ac27aeede15bbd2fba71f6c9,3 a 4 horass,co - Colombia,Femenino,45-54,Licenciatura en docencia,1,Poca,5,Excelente
+66e4133e7034cd413214075b1175b4d32ef24636,5 a 6 horas,gt - Guatemala,Masculino,25-34,Educacion secundaria,3,Buena,5,Excelente
+799f376082165e1e722df0abf9cb1989c8dbc3a2,3 a 4 horass,co - Colombia,Femenino,18-24,Carrera profesional,3,Buena,5,Excelente
+657f53f04d721dd84b3096ed0ced528c647e3e36,3 a 4 horass,mx - Mexico,Femenino,35-44,Maestria,2,Regular,4,Muy buena
+86e1a6095f8e1d74ac27aeede15bbd2fba71f6c9,3 a 4 horass,co - Colombia,Femenino,45-54,Licenciatura en docencia,1,Poca,5,Excelente
+638e076114083c5db304b24699e4fe7bc4ff4c66,1 a 2 horas,ni - Nicaragua,Femenino,18-24,Carrera profesional,3,Buena,5,Excelente
+c96b6784a8d3ccbeed2ed502f6e1e21286e296ca,1 a 2 horas,mx - Mexico,Masculino,35-44,Carrera profesional,4,Muy buena,5,Excelente
+b1f285b4786bf22a6108a9d2b11c474836087af9,3 a 4 horass,co - Colombia,Femenino,18-24,Educacion secundaria,2,Regular,4,Muy buena
+3229d3a169ad4656a138e69a58c6b00fb12ac891,7 a 8 horas,co - Colombia,Masculino,65 anos o mas,Carrera profesional,2,Regular,4,Muy buena
+3d1d1a9f9409627b6445202b791cfe66533ce43d,3 a 4 horass,co - Colombia,Femenino,35-44,Carrera profesional,3,Buena,4,Muy buena
+32a8bd36b695b9b004faec22fd4b2827b9df12e0,1 a 2 horas,co - Colombia,Femenino,18-24,Licenciatura en docencia,1,Poca,4,Muy buena
+a307dc56d803d455360299fc5a9d465c3fdb6e86,1 a 2 horas,ar - Argentina,Femenino,25-34,Licenciatura en docencia,2,Regular,4,Muy buena
+a72e460225b3779d48c3e99c3d45a90512cb5365,5 a 6 horas,co - Colombia,Femenino,25-34,Maestria,2,Regular,4,Muy buena
+1d55f0d1aa68ade7cd79d96e345eb5bd651cc17d,3 a 4 horass,gt - Guatemala,Femenino,35-44,Carrera profesional,1,Poca,4,Muy buena
+a15cd90950eba35ea09527564c0852654bb898b8,9 horas o mas,co - Colombia,Femenino,18-24,Carrera tecnica,2,Regular,5,Excelente
+cdf963397b13e37bb78dd0f1403b77e0b7a34824,3 a 4 horass,bo - Bolivia,Femenino,35-44,Maestria,2,Regular,3,Buena
+b51971f6331aa08416457c6ccf7746976c328336,3 a 4 horass,co - Colombia,Femenino,25-34,Posgrado,2,Regular,5,Excelente
+8a6b4b390eb782227132ac63db4fae5f2ca18fe8,5 a 6 horas,co - Colombia,Femenino,45-54,Carrera profesional,2,Regular,5,Excelente
+23e476cc1b7603e3d65ddaca4abc33953168ab61,1 a 2 horas,co - Colombia,Masculino,55-64,Carrera profesional,3,Buena,4,Muy buena
+b848f3033ef9cfe66c07adeb130868d1c11a3e27,1 a 2 horas,co - Colombia,Femenino,45-54,Carrera tecnica,4,Muy buena,4,Muy buena
+db608f5eaa220c408690ed7f2ae051a1f932d062,3 a 4 horass,mx - Mexico,Femenino,45-54,Carrera profesional,3,Buena,5,Excelente
+7e06f07897038ff1527cbe0a487f09292d63d366,5 a 6 horas,co - Colombia,Femenino,18-24,Carrera profesional,3,Buena,5,Excelente
+cdbcedbb7a038d0c06944c2f84d893fdb7dd58e8,1 a 2 horas,co - Colombia,Femenino,25-34,Maestria,2,Regular,4,Muy buena
+42137f0a1cc59b5628cf44a829b33cc0de4b5d92,5 a 6 horas,co - Colombia,Femenino,45-54,Posgrado,3,Buena,5,Excelente
+f93dbbecbf22af042e3cf59526286e74d1d9e2a9,3 a 4 horass,mx - Mexico,Femenino,35-44,Maestria,2,Regular,4,Muy buena
+d38f80627831ce3275a66cb1dabdfcae767741ba,5 a 6 horas,co - Colombia,Masculino,45-54,Carrera profesional,3,Buena,5,Excelente
+7efc5c2c2dcf8531f0a8bb336709e1474ba7e87c,1 a 2 horas,cl - Chile,Femenino,35-44,Carrera profesional,2,Regular,5,Excelente
+a9451a73ec580fa110f7ff9a252896c9fbe29cba,1 a 2 horas,mx - Mexico,Femenino,25-34,Maestria,4,Muy buena,5,Excelente
+9471826533ac0f142cad0a3a6b8fbd908ea035fd,3 a 4 horass,co - Colombia,Femenino,18-24,Carrera profesional,2,Regular,4,Muy buena
+d220224d49d3639c65e5af3efb0a403ec20c6a7e,1 a 2 horas,co - Colombia,Femenino,25-34,Licenciatura en docencia,3,Buena,5,Excelente
+e60cc2a9667087da54c384b6786d0bf4f11abf6e,7 a 8 horas,mx - Mexico,Femenino,25-34,Maestria,3,Buena,5,Excelente
+46fca9636345077a4015940dea01377524da32fe,9 horas o mas,,Femenino,25-34,Carrera profesional,3,Buena,5,Excelente
+61cc7e23081f12a13054a1a0f6fc76538a3dfbec,3 a 4 horass,mx - Mexico,Femenino,18-24,Licenciatura en docencia,2,Regular,4,Muy buena
+8161457f34d07deb332cd0d03488bdc6e6c6301e,3 a 4 horass,co - Colombia,Femenino,35-44,Carrera profesional,2,Regular,5,Excelente
+542b7e8548c71f14cec1cd4eb2687abeaae1831c,3 a 4 horass,mx - Mexico,Femenino,35-44,Carrera profesional,2,Regular,5,Excelente
+1405ffca712e8db23a7228622f08d0443f9600fd,3 a 4 horass,mx - Mexico,Masculino,18-24,Carrera profesional,2,Regular,4,Muy buena
+13df19ccecbd20d510dff46b818ffda5fac3bff1,5 a 6 horas,us - Estados Unidos,Femenino,45-54,Doctorado,4,Muy buena,5,Excelente
+0be4a1c0d4d0796eed5f83f434a7d3bf1977b6b3,1 a 2 horas,ar - Argentina,Femenino,25-34,Carrera profesional,2,Regular,4,Muy buena
+dd97eabed3b5e96b133b12aad1ec1bec0602f6fa,1 a 2 horas,co - Colombia,Femenino,18-24,Carrera tecnica,3,Buena,3,Buena
+d72edefafb52ce619d1f06d243d3c8357cd89a67,3 a 4 horass,mx - Mexico,Femenino,18-24,Carrera profesional,2,Regular,4,Muy buena
+0680782b03813140d267bbd4f86d23d22f225de0,5 a 6 horas,co - Colombia,Femenino,35-44,Posgrado,2,Regular,4,Muy buena
+0e793114e8b150562a3c85a108181efb0009c1f6,3 a 4 horass,co - Colombia,Femenino,45-54,Maestria,3,Buena,5,Excelente
+4650338bb6bb729c42eeb6d71403363afcf509cd,3 a 4 horass,co - Colombia,Femenino,25-34,Maestria,4,Muy buena,5,Excelente
+9d9e7bba654eabaa6b1c0caf8ccd31de7af24402,1 a 2 horas,co - Colombia,Femenino,45-54,Carrera profesional,2,Regular,4,Muy buena
+0c365b02c73f5444bf48f00b18b9c8ec23a15444,5 a 6 horas,co - Colombia,Femenino,45-54,Licenciatura en docencia,3,Buena,5,Excelente
+1d4e7552451e06acf4c29c8c77435a0c055b71f7,9 horas o mas,co - Colombia,Femenino,25-34,Carrera profesional,2,Regular,3,Buena
+5499e67afc17c94afd1e7975118e4318ac7a8559,3 a 4 horass,co - Colombia,Femenino,25-34,Licenciatura en docencia,2,Regular,4,Muy buena
+1d4e7552451e06acf4c29c8c77435a0c055b71f7,9 horas o mas,co - Colombia,Femenino,25-34,Carrera profesional,2,Regular,3,Buena
+ad84e91a162956d9a2350dd87433dc2a7895aaac,9 horas o mas,mx - Mexico,Femenino,45-54,Carrera profesional,2,Regular,4,Muy buena
+dabd5a4e942464b840d7fda606b327aa09d9e743,1 a 2 horas,pe - Peru,Masculino,18-24,Carrera profesional,2,Regular,4,Muy buena
+0958b8467fcf763930c3932be2713a8a47c65540,3 a 4 horass,mx - Mexico,Femenino,25-34,Carrera profesional,3,Buena,4,Muy buena
+9eadf278a612719809bbf0b00a9dc20f0d09f6fb,3 a 4 horass,es - Espana,Masculino,35-44,Carrera tecnica,3,Buena,4,Muy buena
+49bf673aa3df2af3a65b2c99c9cb17848aca921c,5 a 6 horas,mx - Mexico,Masculino,25-34,Carrera tecnica,3,Buena,4,Muy buena
+e3de46c875fec529b3ecfbb65ab034e9bb41d428,1 a 2 horas,cl - Chile,Femenino,25-34,Maestria,2,Regular,5,Excelente
+7675de069c86af46499eb85d863a7f09b5df2c4e,3 a 4 horass,co - Colombia,Femenino,18-24,Carrera profesional,4,Muy buena,5,Excelente
+97259c69bab61d727fb69c348e7fe64994cba044,3 a 4 horass,co - Colombia,Masculino,18-24,Carrera profesional,4,Muy buena,5,Excelente
+58852b0da6b55ae9666c0c550ffcbd11bacf60c9,9 horas o mas,co - Colombia,Femenino,45-54,Carrera profesional,1,Poca,5,Excelente
+226592ce0d31056be21f1b432a872c6b5ca41509,3 a 4 horass,ar - Argentina,Femenino,45-54,Carrera profesional,2,Regular,4,Muy buena
+1ca6721be703728f4190643bedb41ea834e5ebfb,5 a 6 horas,co - Colombia,Masculino,25-34,Carrera tecnica,5,Excelente,3,Buena
+9222a7730b0917a1982ddfa321681840da5d7bd1,3 a 4 horass,,Femenino,45-54,Posgrado,5,Excelente,5,Excelente
+440b6f45faf1118456da45950b36b7b385fe1702,3 a 4 horass,mx - Mexico,Femenino,35-44,Carrera profesional,2,Regular,5,Excelente
+53887b4334234ecbd1025750ae0609aa7ed9a75a,9 horas o mas,mx - Mexico,Femenino,45-54,Licenciatura en docencia,2,Regular,4,Muy buena
+ddf4bbb19ddcac30b7cfdb28734f1a7729262665,3 a 4 horass,co - Colombia,Femenino,35-44,Posgrado,1,Poca,4,Muy buena
+cff4e3cb20a0cbb87a285c401b3c15959b2a4507,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+c40ec9bae66ae3602d4c43728fb7a568be23a7cc,7 a 8 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+88f707ed083c87a6d7a41158323fdc9bbc7a3704,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+980feb14ab34d6d5348b707d1a0785537d269ba0,5 a 6 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+558149e18e2b69d8af73698bc5c42a9eb38f6315,7 a 8 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+ba7dbb79f299deb376edc4c46b1675a83a0cd8c2,5 a 6 horas,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+4e6e6a2e4fb7385955a22585ed20c224fc434b84,7 a 8 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+25a70107a0374e91446a549c80b0f240514eb80f,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+b0e60e9a63de54b86f57f30a8626980d6034fd4d,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+3fc63165f4fee1abd02ba568277cb678bca32407,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+f346c5c2e8903f1f85fd8705c8057fcf35908ab8,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+822e8c7624006d25f0851713a31db02d100f5450,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+1a9b90555eb9d925c4a4df592b0a2da25568e037,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+3fb80dde8efa48d47cc64529f077212f4f8988a5,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+9707153934bd2759e8846ae7a4017110211e30c5,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+302aa43dcdc8db20fc5a1217972e52efac2a3627,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+22f13e48f7329bd82c86f8d9ba9a69672ba80268,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+c2b4cc3ef3198695ae1ba7645bd5f1c2837386da,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+18ccda7de709e42406eab06f11076d8f933c6798,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+0fb9090194754cb9a791f3a7382825e18f04c9db,1 a 2 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+c05344507305db71202443d2112424162cad585d,5 a 6 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+d03f1f7d02fe80f24d75e47f04aaad0dba1e99d3,1 a 2 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+0c8c7efda2f9840711171850e229ba4544bba75a,5 a 6 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+57affe65d0f8eb73aa93b379ba78cce8949b5fc8,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+4183c03af402c9e124a45c5f6f4a8b087d142c39,3 a 4 horass,N/C,N/C,N/C,N/C,5,Excelente,2,Regular
+d4819c32ffb3528bf6538eec3a1d48f99396c45d,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+0bbc485678821e2c40323bc1307546d6c6fa2028,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,2,Regular
+ae5793b11bc00c896c6857552f0f56ebb60063f8,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+40e6b9fe347ce8d40bb6d982273824f3f8e000b8,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+761876e9c4da188df3798caa2ad9d9737b307aa6,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+cd938d395860b591b9730d6b60ca0b5059b2a935,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+810e5d5eb43926186db4ea498ff26aa76ab0233f,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+7539f61b25d0e176fc3352a99f7af67221813964,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+72e30144e0cd4877e73fdc034038afe87ac7fa47,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+a3db707b080b84f1988fd46fa008543c6d7d2042,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+8f55dea6b72238ff34b56bfe22036e1cea022200,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+ff390d22ff9bb1c318085284ce686f6a3abd14bb,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+fa8d39e0852dac93a3a906d06292dfa97d0266c0,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+d023c9cadba384fb88ae81ce6bda75c1a4da8726,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+4e9b8953e171d2c2acfd082846377829cf73c675,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+7fe162a065069d8bc418c5201b2c9d8ad9092297,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+016c9b742a39c3784b35e3465e8f171ed1219571,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c7997b680a301738dddcc479318d185ae8392e3b,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+ac6a340b22c8a559cfc3a21964ab2b0b036934e5,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+ba43c91d3c69f6bc342bb51ebc67bbc0b1b94a24,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+96741693ba3b531cf3186c97a77202d3bea51f72,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+16a8bc90c4ebb176889e4bce4ab8773aca2378ec,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+c687bfbd3c8e3eece8ecf02aac488da93f0722bd,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+fbe025656aaa63dd87a85137484f7d4ddabff8d7,9 horas o mas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+e8c8a9d0bdbba066ba766aebf6f0ffa9e75a5b90,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+a2b9d64c24efd997f3a9041b6bf11da5b0fd04a3,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+5984db729d994e8f5f7772cca2d72e4e13bf3cb5,7 a 8 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+e4a75d46e0fb5cb71f13af95cdd1414fdee5b38e,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+08d9d2098cb86ba1a764e71030bded1e4175da47,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c48c4800cb8607aaf54ce2f0f5c0d2b9c0cdaed8,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+ee5099cb0d34872ca0c8e7b1e4b6fc782aaf2673,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+be3d6a1c7da9ca71ccdda2c55f925b9c579d20fa,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+d52881b394538f12744878b4cd4656701776047f,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+494ae19b4971d3d6be0be89122d4d3feebf26dc3,9 horas o mas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+e2abcfe581befcb21865361fcf12c6254bf1f82b,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,3,Buena
+123aa2bf9751c26bf3d53b146f6ce2ecc4ece280,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+3482a26f9da25cfbb59c7d7e7a8ae6e5e5c845ea,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,4,Muy buena
+8c23ea10f89060e8ebb2f770cfea028ec6b06d8b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+ce8b77f339247af4391c7302b91ed197bf0d58ef,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+7e9996f355747d2d2f314c09d9352e0fca7764dc,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+30ce9d394decd8edf514d90ef712efc4ec1ae85b,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+0f111538e22d23ec7cdba0ee9fd3978434715d90,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+b49cff96c033e34fee197c169bc4a4f5f88f6fc0,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+adc899f8345efebbb9dd005b17a240da8c3ba3d9,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+0fa8f752fcc782a7a485e17e0e247ede71849362,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+9561657cace80fff26052762222629efe28a9756,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,3,Buena
+e9f5a8adae36f9b80287c34399bb9db5d350153c,3 a 4 horass,N/C,N/C,N/C,N/C,4,Muy buena,4,Muy buena
+2383a3a8ee74c67fc22777ef5c692e1949e3ab06,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+95485336b294d5766fbc8712e7441ce887e6e152,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c10ac3694a29bc630ac77c0a0fee8b45984f1d55,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+0c837ba757632fce9132f0f14228534a4d5aa82f,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+349cda4c26c1ee781b3ce9386abf9195f7ea1caa,7 a 8 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+9d9980e0b06bbfc5815cf17933c74c240905f88b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+fd6c9ef93f9cd5b1e6239548e4ef86b2b65ef58a,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+1a80aff1d940e41814ceaccab7ad474067dc72b0,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c58befad38d46709ba83b4178250b27972042b98,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+cbeeb264a321e79bdfe6b477429243cd4f66a649,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+8b981e726c2276080d7e1bdd86131029ef70dec9,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+86ebd831a5613240126778dc2c5ebeab312bc0f5,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+9e86c5407f5bbaafe19e4bd3b196530bc0379b81,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+16a6850b210f08f64a7a0fd953662f63b0765d2e,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+082e523cba70f5823ef737ffd38971c2909eaf79,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+2be74f9fc2ef030ec8597298a3fea2a405ba6af1,7 a 8 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+06d23c53b38edeea9320f5b823ad8a3942a56a1b,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+59f3337e8a591fc8bf1427bd7d26bb23a63927cc,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+e97bfe28523a772d47a224d9c0be7a207b1d9cc2,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+3ae0b9b3017e805a4cca52e264e5b1bc16cc96ad,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+44975e2958d4a79a6389063e5ceeed79f14822d6,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+5a0fc3a811030bf9ceb48121b2b4452938d63c6c,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+6bbc5355f07b8bca857f021190e8eefb2e8cb1b0,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+95c6d7e7d8798f99a903d8c4dcc2ae4782eeaa18,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+e0dc97a446a7f65940f1317ada9d4acf16871dec,9 horas o mas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+10ee13837e7f4154fc255a927c3ac72007ebc7b2,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+70ed42251506753955554840d67a6980edc12f89,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+bae9a30fe13133b04f4263dafbf35c2127cc38b2,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+3ecee64934e71daae2e3835e698a69e32e07b3bd,5 a 6 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+cdfe26e517aca2ce8991ba4e2eda5fccffcf1c26,9 horas o mas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+f2b7f5ba35bf5406b5287ede71af02b5988ab755,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+5b79944dc9d56514dd8674a00d0a1120df563707,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+45d892ed59ffe172cd151c551b58e05310f772f1,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+b749d9dc9e929357625520b205008cdc879fd4ee,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+bde0a50d8d258d954a60b302f93236a36c1a2909,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+2a3f32d19e223fe8e181913f015c4efc25f77b60,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+0e67462beceb25c21b86b778b031507cfc251829,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+06eec7f5c86ce709925480ff4acf35ce8b62ee5f,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+89fa76fe26563092fb6f339a98d14002ec32953e,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+08f5b2aca4e01fde8720d6262f5f54e82dc78b05,5 a 6 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+ab27c3e5a404666ca88dbbbd78f2e2a4f4f76971,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+25dd465f513083887276d327e4eafe4c6c1b4ca3,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+686968209273558eed7d8631fa047873f0b775be,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+c69766d4068dd51b91b9fcef16ae312a56804c5b,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+2c63fd7b4e0e367effff2ff68a2f04c5f6db2f4f,9 horas o mas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+7f5a7a1a0236afe62888e2550906e97bd2151497,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+78afc0f9b4e31667a086c7e6a61aaf308f233571,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+602175526c486ad9b4b4c1f28494ecb587fa2f4c,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,3,Buena
+3f200ea3242726c2bdc6de730f7078e211b594bc,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+1b82cb8c81708fec2083e473d7075fe19d3d443d,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+52e70109b6ecf649a84472a359bda0015c3beefe,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+f286b90f2f5c84f7aec9944d6110dfab22d64ff9,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+396dbde027be18e4f2e57175bc8904e4d206c1dc,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+cf0fbc5084f112baf5adcc48cbaefaccc62cca52,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+6003aa062ac1467ef4fe886edd7a701f18eda33b,3 a 4 horass,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+1413c113844f9d568b1f42bc3c01d6c44939631a,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+222514d09f360b777ceb6f4cac93452eb8577b17,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+dc065998b57bdedf9f21b014c0fe8bc01b369899,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+60d9fae92350ffcf6da62612324e22c9b2c8f0f6,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+fddf50d816aabedbfd1b6efcb2d83ed427eff174,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+afe87053d7179ec6edbb49117d575f972cec2762,1 a 2 horas,N/C,N/C,N/C,N/C,5,Excelente,0,N/C
+bd23a642efe2d3be6ae77656890e956f3544b7ad,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+c7f02b9c7231cfc5f57de1f4fc3e9e9e02078684,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+897fa34a212f1565dc2e160b6f8d3ec64d018a54,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+e3ad0cf5d71ae366376324d1f09890f5f60dc584,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+b5158a9b6d1327f6822d53e1ce61b5faf58cedb9,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+7586e8cd920d10a45bd19bc2879b740dbff07fc5,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+db3450dce3c2ed7f73c1495d69bda6e0e305ea15,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+32b8cd577fcbaf5ceb5430bad52903c09d1ba258,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+d342c93009d882f38b8e07639a19ad6ecb730391,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+9cca502fb5cd813319ae4a89423f606f8f3dcb1c,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,3,Buena
+8facada023442c9cee7a7f39cbb0f680d8dbe722,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+4bd80139b7d568562985c43927584f5b4a31e5d9,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+aac6920b8a49112392697de96dd3bf0242dd3c4d,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+995a779c65b0e7f9412326cde38e758c13f69708,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+5b64607e1ba68844ecf4051ca1c725d157159b8c,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+ea18e0507c153d408b0025e01478359d85b555bf,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+1a6c68bbd57f5b223feb71827f72b80d45260260,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,3,Buena
+7983869f7929a9f6f4024bb082b1444fcfe01d32,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+bc9b758a0024ff8c21abc5c58d3409cc91fe7aa3,5 a 6 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+ce1a6d6dd12b006e1deddbc91361edae2373c816,9 horas o mas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+8c353d23a397a4027286692edc1d2802013a7dbe,7 a 8 horas,N/C,N/C,N/C,N/C,5,Excelente,5,Excelente
+cfcc743c625dcbd510f4de03501a3e888508ac8b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+1e4de9645c404d349ad179fbdaf3169c20b5ea20,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+412e99938f18015cc2c25509f876e1b2c47600a4,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+7340f72fa6e867d42b15dac54511cf02d4b65385,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+dd2e6462a95bed1dfb773c0571f12c195a444e21,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,3,Buena
+6555cddcb751f704238ac2e6ece2bccda892240b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+4e7eff49f29c3782a3186ded4e162dfd0bbcf634,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+2d29ff11e1b1e53f573b585c7e89fa07a68b61ed,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,3,Buena
+dad6d37350e77c093678fa88dbf28960f6360a77,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+af7da91de4f8a0870f7eef90d478de5a84df81ad,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+73d3287c88fefac56379eb3b6d22b69698d21a4b,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+a93ad8e01b1ff0de14b98478ebc64e23dc268ed5,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+a99c22d052354f0a630ab7774809dddce4f06ce8,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+b6ac9df137b814d1d742689c6b5c84897780bb55,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+73df31acd89a90403aaf470262baa0dda4711c62,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+e523d1c7c41c568168ec3a6c1cad4db4f0ae9f1d,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+b7c0de02b276dc761dd69926105d9c1df67da665,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+af634af39997285ac128d634576679150b1f5e61,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+f823f65c0550e54dd26b9cf63319d1da4df86723,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+97bae4380fbac3407947431a36525e2d86c7147e,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+b8d208df6d0680fc3766f6b17a50c4ac6f18860c,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+6b4fc3614b28d97e697bdac3cea7157fceac43c5,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+01e92ffb4dadc81f6189d10911824c91b70f4b96,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+3708f3146317cab12a0b27d3597a2a236879f160,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+510cff8f800a142e577e826a53229c560170db23,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+65f2e6ddaa80df87c13b2d638c89e40e2eab7154,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,3,Buena
+fc50c85fdec34d718ef3173c7fd9dfdc8e2dbd56,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+28b2cc79224a4f6b35284af44c3e4532b144dc25,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+be27aae0d268788ea9acce56011f869b7b7ae644,3 a 4 horass,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+ee482f4842f6d4a6ebc31a41bac8dec7c305b016,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,4,Muy buena
+a7cfd1b2274f9c6eeeaa3b52764bf6f0a7f2c632,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+2197c4bcc5db42376e3e593893306f9b776569df,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+4a5d82bc095e2184201e057b10a862b529a615ab,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+4a71769a04d784966d1497de2b71eb9f6f0ea3b1,9 horas o mas,N/C,N/C,N/C,N/C,4,Muy buena,4,Muy buena
+34369ee15646fb4db4dbd391bb9f71015079d902,5 a 6 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+62a3676bc0356284def5ea37a6e2f8248c254fcf,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+ace84d441ade2c17d82da2e5036972e43d47474a,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+52a00b24a5e76b6f03c4138803289c78924cc33b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+94fb1bd483c7a9c50f5c24c104f3d762e8ef29b5,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+ed001e20a1f297a014ae1fe1f13ee10f9b0855c9,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+6aa02855160b54a4af8372a677ad988ae5474109,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+b1c5a79abf497dfc0f768f8279db93bcedffe654,7 a 8 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+5bdabef423dff76c718624107b11f3c2d996b64e,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+55af5011cb8954d80ed4441eb2af792ed537a9da,5 a 6 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+5cdeb02d4cd48ad90d49aaca690344f3a7eed2a0,7 a 8 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c1e73ff8c22c381175228272dc1bf04111709050,1 a 2 horas,N/C,N/C,N/C,N/C,0,N/C,3,Buena
+706ca6db504799c73ba4e4ec5a6209a4cb55a36d,3 a 4 horass,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+3e84565313e40d3540cb0274f194732848d4797b,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+3c6e793ff66250697f670d182f845fe419cbe633,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+b2dfdc05b9cad25b8c0d7206d033d2059f691ca7,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+e5a1f68a89a598b0b01947b037c0d24da509eb6d,3 a 4 horass,N/C,N/C,N/C,N/C,1,Poca,4,Muy buena
+4aa661a2eecf0c9b782e9dcb99e45cdb2b89c809,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+8a9fcece3797e5565e7823e8dac643b5e85d510a,1 a 2 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+b873def9ecd8843258c5a6a88bf6677f0152ed2d,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+6344e4ec3de7fb2e6048500b045c997bb90aa25b,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+3c14ffa51592bba98067f5f7916deeacdd06cc82,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+1b016fb7ee74a1fdf4c70eade5929246287e0f08,1 a 2 horas,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
+b992c935d55f9c767e46752e5ac4a081f5359149,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,3,Buena
+9d9e0a76c1674324c3404497a8df2d5a0bfb21b5,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+4b7a9132ec101d088352718b29588789ff36f156,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+84d269b9d103356302f304ad7173146f34c6eeb1,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+ba9503c6aab838c03bcf1570decfb7315a3d360a,1 a 2 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+f9daf7964a2480702b36134c6a3c6c6a671b1be6,7 a 8 horas,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+a5cb65d40c20cb67b5d147efbf3dea01803f0960,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+88f683f772d14c91f5e44fd5e89495d2637c8e55,9 horas o mas,N/C,N/C,N/C,N/C,2,Regular,4,Muy buena
+b5a937c054f1605ffbe1c3b99ecfac00a8a50cc1,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,5,Excelente
+911c553f9292311a324c2a097699a617bec0993f,3 a 4 horass,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+c2d9772ec4190f7b4e0dadc2c71d838aa418b479,1 a 2 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+db06125b43463439f4d2f0b25fe5d35dc5872328,3 a 4 horass,N/C,N/C,N/C,N/C,3,Buena,4,Muy buena
+36c04790a134e488186b5258f7f44fe4d37d8896,5 a 6 horas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+38f40055302dba5f9a6f6aa73421a9bfb9f948f7,9 horas o mas,N/C,N/C,N/C,N/C,2,Regular,5,Excelente
+e9bd0402d74e79d09b7902e1419eb4438ad1e66e,7 a 8 horas,N/C,N/C,N/C,N/C,4,Muy buena,5,Excelente
+b079901bb772771f53f5968f7de18c4f7c826199,5 a 6 horas,N/C,N/C,N/C,N/C,1,Poca,5,Excelente
