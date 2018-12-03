@@ -56,7 +56,7 @@ El resultado de las encuestas es la data que apoya la tarea principal.
 Tareas Principales
 - TP1: Identificar las características que indican que el MOOC es efectivo y que realmente mejora las competencias y capacidades para hablar de “Sexualidad” en los participantes, aunque no cuente con un profesor de forma presencial (Identify – Features).
 - TP2: Descubrir la distribución de las variables demográficas de los estudiantes que completan el curso, para identificar cuales comunidades demuestran mayor interés en realizar y terminar del curso (Discover - Distributions).
-- TP3: Identificar las actividades más populares y las menos populares de las disponibles en el curso, contrastando la cantidad de veces que una actividad fue completada contra la cantidad de veces que una actividad no fue completada. ()
+- TP3: Identificar las actividades más populares y las menos populares de las disponibles en el curso, contrastando la cantidad de veces que una actividad fue completada contra la cantidad de veces que una actividad no fue completada (Find - Trends) y (Lookup - Values).
 
 Tareas Secundarias
 1. Determinar si existe alguna actividad o ítem en la cual los estudiantes se retiran del curso de manera frecuente, de tal manera que se logre identificar un momento clave de deserción (Locate - Outliers).
