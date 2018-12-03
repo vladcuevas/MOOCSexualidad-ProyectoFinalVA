@@ -122,7 +122,7 @@ let rawNeverCompletedVSCompleted = neverCompletedVSCompleted.plainTSV(types);
       orderText = 'Ordenado por cantidades'
     } else {
       isOrdered = false
-      orderText = 'Ordenado alfabéticamente'
+      orderText = 'Ordenado por secuencia de actividades'
     }
 
     d3.select('#orderCBText').text(orderText)
