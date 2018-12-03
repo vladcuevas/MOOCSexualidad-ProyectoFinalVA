@@ -294,7 +294,7 @@ let chart = (data, currentView) => {
   let thirdTaskTitle = d3.select('#thirdTaskTitle')
 
   thirdTaskTitle.styles({
-    'font-size': '38px',
+    'font-size': '34px',
     'font-family': 'sans-serif',
     'font-weight': 'bold',
     'text-shadow': '1px 1px 2px #CACACA',
