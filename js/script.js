@@ -20,7 +20,7 @@ ast.init = () => {
 
 // Load yearly data and charts
 ast.loadData = () => {
-	let filepath = "https://raw.githubusercontent.com/ansegura7/MOOCSexualidad-ProyectoFinalVA/master/data/";
+	let filepath = "https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/data/";
 	let filename = ""
 
 	// Load Students Expectatuion data

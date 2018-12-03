@@ -1,6 +1,6 @@
 # ProyectoFinalVA
 
-![alt text](https://raw.githubusercontent.com/ansegura7/MOOCSexualidad-ProyectoFinalVA/master/img/main-banner.jpg)
+![alt text](https://raw.githubusercontent.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/master/img/main-banner.jpg)
 
 - Estudiantes: Vladimir E. Cuevas, Juan Carlos Oyuela y Andres Segura Tinoco
 - Curso: Visual Analytics
