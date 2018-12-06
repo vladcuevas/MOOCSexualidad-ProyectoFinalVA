@@ -9,7 +9,7 @@
 - Licencia: MIT
 
 ## Project Paper
-A continuación, el enlace al paper del project:
+A continuación, el enlace al paper del projecto:
 
 https://github.com/vladcuevas/MOOCSexualidad-ProyectoFinalVA/blob/master/paper/Proyecto%20Final%20VA%20-%20EN.pdf
 
